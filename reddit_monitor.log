@@ -1,0 +1,6 @@
+2024-05-16 00:41:17,193 - INFO - Created audio for post: 1cst3vg
+2024-05-16 00:41:17,560 - ERROR - Error processing video for post 1cst3vg: MoviePy Error: creation of None failed because of the following error:
+
+[WinError 2] The system cannot find the file specified.
+
+.This error can be due to the fact that ImageMagick is not installed on your computer, or (for Windows users) that you didn't specify the path to the ImageMagick binary in file conf.py, or that the path you specified is incorrect
